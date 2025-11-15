@@ -1,0 +1,7 @@
+{
+  "name": "Provable-EHR-LLM Research Suite",
+  "description": "An interactive web application demonstrating cutting-edge research solutions and AI features using the Gemini API, focusing on safety, faithfulness, and equity in clinical AI.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
