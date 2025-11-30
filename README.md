@@ -10,7 +10,6 @@
 
 
 📌 Provable-EHR-LLM Research Suite
-<p align="center"> <img src="https://via.placeholder.com/600x150?text=Provable-EHR-LLM+Research+Suite" width="600" /> </p> <p align="center"><b>Next-generation research framework for safe, multilingual, multimodal clinical Large Language Models.</b></p>
 
 🧬 Core Vision
 
@@ -18,10 +17,10 @@ Provable-EHR-LLM enables the development and evaluation of provenance-aware, pri
 
 🔥 Research Pillars
 1️⃣ Longitudinal Multimodal Data Fusion for Personalized Medicine
-2️⃣ Multilingual + Cross-Cultural Clinical Reasoning
-3️⃣ Privacy-Preserving + Equitable Model Architectures
-4️⃣ Provenance-Aware + Faithful Clinical Summarization
-5️⃣ Zero-Hallucination + Workflow-Aligned Clinical Reasoning
+       2️⃣ Multilingual + Cross-Cultural Clinical Reasoning
+       3️⃣ Privacy-Preserving + Equitable Model Architectures
+       4️⃣ Provenance-Aware + Faithful Clinical Summarization
+       5️⃣ Zero-Hallucination + Workflow-Aligned Clinical Reasoning
 
 🧪 Pipeline Components
 
