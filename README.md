@@ -46,8 +46,8 @@ python scripts/run_benchmark.py
 
 We welcome:
 
-Research ideas
-Dataset proposals
-PRs & issues
-Benchmarks
+Research ideas,
+Dataset proposals,
+PRs & issues,
+Benchmarks.
 
